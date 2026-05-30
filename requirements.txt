@@ -1,0 +1,3 @@
+# Pip-only packages for the TensorFlow notebook stack.
+# Create the conda environment with environment.yml first.
+tensorflow==2.10.1
